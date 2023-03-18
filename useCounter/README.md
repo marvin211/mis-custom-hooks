@@ -1,4 +1,4 @@
-# UseCounter Hook
+# useCounter Hook
 
 Ejemplo de uso:
 
